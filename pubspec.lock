@@ -20,7 +20,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1bc911c9854ee35f53ba1ca261cfc91195de2e10"
+      resolved-ref: "8848714feea55d01657e13eb747b4ae40e4ab696"
       url: "https://github.com/Wujidadi/Flutter-Beacons-Plugin.git"
     source: git
     version: "1.0.16"
@@ -83,6 +83,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  get_mac:
+    dependency: "direct main"
+    description:
+      name: get_mac
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.1"
   matcher:
     dependency: transitive
     description:
